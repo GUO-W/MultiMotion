@@ -11,6 +11,7 @@ arXiv preprint arXiv:2105.08825
 ### Preparing data
 Please request and download data from [ExPI](https://team.inria.fr/robotlearn/research/expi-dataset/),
 and put the data in /datasets.
+Dataloading functions could be found in utils/dataset/pi3d.py. Visulisations futions could be found in utils/vis_2p.py.
 
 ### Training and testing
 Codes and pretrained models will come soom.

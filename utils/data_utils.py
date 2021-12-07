@@ -37,7 +37,7 @@ def readCSVasFloat(filename, with_key=True):
     return returnArray
 
 ###########################################
-## func utils for norm/unnorm
+## func utils for norm
 
 def normExPI_xoz(img, P0,P1,P2):
     # P0: orig
