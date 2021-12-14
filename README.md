@@ -1,6 +1,6 @@
 
 ### Multi-Person Extreme Motion Prediction
-
+---
 Implementation for paper
 Wen Guo, Xiaoyu Bie, Xavier Alameda-Pineda, Francesc Moreno-Noguer,
 [Multi-Person Extreme Motion Prediction](https://arxiv.org/abs/2105.08825),
@@ -8,7 +8,7 @@ arXiv preprint arXiv:2105.08825
 
 [[Project page](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/)]
 
---
+---
 ### Preparing data
 Please request and download data from [ExPI](https://zenodo.org/record/5578329#.YbjaLPHMK3J)and put the data in /datasets.
 /Note: If you are NOT affiliated with an institution from a country offering an adequate level of data protection 
@@ -17,10 +17,12 @@ Please request and download data from [ExPI](https://zenodo.org/record/5578329#.
 
 Dataloading functions could be found in utils/dataset/pi3d.py. Visulisations futions could be found in utils/vis_2p.py.
 
+---
 ### Training and testing
 Codes and pretrained models will be officially released soon. 
 If you want the codes for academic use now, please [contact us](wen.guo@inria.fr) for the rough version.
 
+---
 ### Citing
 If you find our code or data helpful, please cite our work
 @article{guo2021multi,
@@ -29,6 +31,7 @@ If you find our code or data helpful, please cite our work
     journal={arXiv preprint arXiv:2105.08825}, 
     year={2021} }
 
+---
 ### Licence
 MIT
 
