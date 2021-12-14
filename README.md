@@ -11,9 +11,9 @@ arXiv preprint arXiv:2105.08825
 ---
 ### Preparing data
 Please request and download data from [ExPI](https://zenodo.org/record/5578329#.YbjaLPHMK3J)and put the data in /datasets.
-/Note: If you are NOT affiliated with an institution from a country offering an adequate level of data protection 
-(most countries without EU, please check [the list](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en))
-, you have to sign the "Standard Contractual Clauses" when applying for the data. Please follow the instructions in the downloading website./
+
+\Note\: If you are NOT affiliated with an institution from a country offering an adequate level of data protection 
+(most countries without EU, please check [the list](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)), you have to sign the "Standard Contractual Clauses" when applying for the data. Please follow the instructions in the downloading website.
 
 Dataloading functions could be found in utils/dataset/pi3d.py. Visulisations futions could be found in utils/vis_2p.py.
 
