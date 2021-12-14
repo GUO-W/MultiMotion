@@ -20,6 +20,7 @@ Dataloading functions could be found in utils/dataset/pi3d.py. Visulisations fut
 ---
 ### Training and testing
 Codes and pretrained models will be officially released soon. 
+
 If you want the codes for academic use now, please [contact us](wen.guo@inria.fr) for the rough version.
 
 ---
