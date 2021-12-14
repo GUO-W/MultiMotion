@@ -8,7 +8,7 @@ arXiv preprint arXiv:2105.08825
 
 [[Project page](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/)]
 
----
+--
 ### Preparing data
 Please request and download data from [ExPI](https://zenodo.org/record/5578329#.YbjaLPHMK3J)and put the data in /datasets.
 /Note: If you are NOT affiliated with an institution from a country offering an adequate level of data protection 
