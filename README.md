@@ -25,6 +25,7 @@ If you want the codes for academic use now, please [contact us](wen.guo@inria.fr
 ---
 ### Citing
 If you find our code or data helpful, please cite our work
+
 @article{guo2021multi,
     title={Multi-Person Extreme Motion Prediction}, 
     author={Wen,Guo and Xiaoyu, Bie and Xavier, Alameda-Pineda, Francesc,Moreno-Noguer}, 
