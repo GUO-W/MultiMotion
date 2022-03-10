@@ -5,7 +5,7 @@ Implementation for paper
 Wen Guo, Xiaoyu Bie, Xavier Alameda-Pineda, Francesc Moreno-Noguer,
 [Multi-Person Extreme Motion Prediction](https://arxiv.org/abs/2105.08825), CVPR2022. 
 
-[paper](https://arxiv.org/abs/2105.08825) [Project page](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/)
+[[paper](https://arxiv.org/abs/2105.08825)] [[Project page](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/)]
 
 
 ---
