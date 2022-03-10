@@ -33,7 +33,7 @@ class Datasets(Dataset):
 
         if opt.protocol == 'pro3': # unseen action split
             if is_train: #train on acro2
-                acts = ["2/a-frame","2/around-the-back","2/coochie","2/frog-classic","2/noser","2/toss-out", "2/cart-wheel",\
+                acts = ["2/a-frame","2/around-the-back","2/coochie","2/frog-classic","2/noser","2/toss-out", "2/cartwheel",\
                         "1/a-frame","1/around-the-back","1/coochie","1/frog-classic","1/noser","1/toss-out", "1/cartwheel"]
                 subfix = [[1,2,3,4,5],[3,4,5,6,7],[1,2,3,4,5],[3,4,5,6,7],[1,2,3,4,5],[1,2,3,4,5],[2,3,4,5,6],\
                         [1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5],[1,2,4,5,6],[1,2,3,4,6],[1,2,3,4,5],[3,4,5,6,7]]
