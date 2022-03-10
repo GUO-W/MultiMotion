@@ -1,9 +1,9 @@
 '''
-Software MultiMotion
+Software ExPI
 Copyright Inria
 Year 2021
 Contact : wen.guo@inria.fr
-MIT license.
+GPL license.
 '''
 #vis_2p.py
 # visualize input + pred/gt + error bar for a couple of actors

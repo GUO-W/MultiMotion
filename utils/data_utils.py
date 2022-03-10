@@ -1,16 +1,16 @@
 '''
-Software MultiMotion
+Software ExPI
 Copyright Inria
 Year 2021
 Contact : wen.guo@inria.fr
-MIT license.
+GPL license.
 '''
 # data_utils.py
 # func utils for data
 
 import numpy as np
 import torch
-from IPython import embed
+# from IPython import embed
 
 ###########################################
 ## func for reading data
@@ -37,7 +37,7 @@ def readCSVasFloat(filename, with_key=True):
     return returnArray
 
 ###########################################
-## func utils for norm
+## func utils for norm/unnorm
 
 def normExPI_xoz(img, P0,P1,P2):
     # P0: orig

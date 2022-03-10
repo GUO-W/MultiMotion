@@ -1,5 +1,5 @@
 '''
-Software MultiMotion
+Software ExPI
 Copyright Inria
 Year 2021
 Contact : wen.guo@inria.fr
@@ -11,7 +11,7 @@ import torch
 from torch.utils.data import Dataset
 import numpy as np
 from utils import data_utils, vis_2p
-from IPython import embed
+# from IPython import embed
 
 class Datasets(Dataset):
 
