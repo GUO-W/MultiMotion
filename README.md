@@ -4,7 +4,8 @@
 Implementation for paper
 Wen Guo, Xiaoyu Bie, Xavier Alameda-Pineda, Francesc Moreno-Noguer,
 [Multi-Person Extreme Motion Prediction](https://arxiv.org/abs/2105.08825), CVPR2022. 
-([Project page](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/))
+
+[paper](https://arxiv.org/abs/2105.08825) [Project page](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/)
 
 
 ---
@@ -39,7 +40,7 @@ Please request and download data from [ExPI](https://zenodo.org/record/5578329#.
 
 ---
 ### Test on our pretrained models
-* Please download pretrained models for [model](https://drive.google.com/drive/folders/1TVgaVi_SaQl9j_KoGaa3XZb5XjGC7e0Y?usp=sharing)
+* Please download pretrained models from [model](https://drive.google.com/drive/folders/1TVgaVi_SaQl9j_KoGaa3XZb5XjGC7e0Y?usp=sharing)
 and put them in ./checkpoint/pretrain_ckpt/.
 * Run ./run_exps/run_pro1.sh to test on Common-Action-Split. 
 (To test on Single-Action-Split and Unseen-Action-Split, please run run_pro2.sh and run_pro3.sh respectively.)
